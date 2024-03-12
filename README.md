@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush-wagh&show_icons=true&locale=en&layout=compact" alt="piyush-wagh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyus-hwagh&" alt="piyush-wagh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-wagh&" alt="piyush-wagh" /></p>

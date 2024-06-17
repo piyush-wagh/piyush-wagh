@@ -5,7 +5,7 @@
 
 - Linkedin profile [www.linkedin.com/in/piyushbalasahebwagh](www.linkedin.com/in/piyushbalasahebwagh)
 
-- 💬 Ask me about **HTML,CSS,JS,GCP,AWS**
+- 💬 Ask me about **HTML,Java,SQL,GCP,AWS**
 
 - 📫 How to reach me **wpiyush05@gmail.com**
 

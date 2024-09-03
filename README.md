@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Piyush Balasaheb Wagh</h1>
-<h3 align="center">A passionate Cloud Enthausiast from Maharashtra India</h3>
+<h3 align="center">A passionate Tech Enthausiast from Maharashtra India</h3>
 
-- 🌱 I’m currently learning **Cloud Technology ,Frontend,Kubernetes.**
+- 🌱 I’m currently learning **Java , SQL ,Frontend,Kubernetes.**
 
 - Linkedin profile [www.linkedin.com/in/piyushbalasahebwagh](www.linkedin.com/in/piyushbalasahebwagh)
 
-- 💬 Ask me about **HTML,Java,SQL,GCP,AWS**
+- 💬 Ask me about **HTML,Java,SQL,GCP,Mannual Testing**
 
 - 📫 How to reach me **wpiyush05@gmail.com**
 
